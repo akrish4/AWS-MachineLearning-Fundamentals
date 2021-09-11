@@ -13,7 +13,6 @@ In reinforcement learning, the algorithm figures out which actions to take in a 
 ## How does machine learning differ from traditional programming-based approaches?
 
 ![tradml](https://user-images.githubusercontent.com/61831021/132942699-a39c1fdb-d1e9-470c-8894-ebadb88b9d42.png)
-
 <center>Traditional programming versus machine learning</center>
 
 In traditional problem-solving with software, a person analyzes a problem and engineers a solution in code to solve that problem. For many real-world problems, this process can be laborious (or even impossible) because a correct solution would need to consider a vast number of edge cases.
@@ -34,7 +33,7 @@ The overall goal is to use a model created by a model training algorithm to gene
 
 Machine learning is a new field created at the intersection of statistics, applied math, and computer science. Because of the rapid and recent growth of machine learning, each of these fields might use slightly different formal definitions of the same terms.
 
-Terminology
+#### Terminology
 Machine learning, or ML, is a modern software development technique that enables computers to solve problems by using examples of real-world data.
 
 In supervised learning, every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
