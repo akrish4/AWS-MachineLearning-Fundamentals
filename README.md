@@ -1,6 +1,6 @@
 # AWS-MachineLearning-Fundamentals
 
-#### Chapter 1 :  Introduction to Macchine Learning
+#### Chapter 1 :  Introduction to Course , Prerequeiste
 
 #### Chapter 2 :  Introduction to Machine Learning
 
